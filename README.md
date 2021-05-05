@@ -2,7 +2,7 @@
 
 ## Error_ellipse_ SLAMについて
 
-Error_ellipse_ はSLAM学習用プログラムです。
+Error_ellipse_ SLAMはSLAM学習用プログラムです。
 2D レーザスキャナのデータ（スキャン）とオドメトリデータを格納したファイルを入力し、
 ロボット位置の軌跡と 2D 点群地図を gnuplot 上に出力します。
 
