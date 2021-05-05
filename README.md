@@ -1,6 +1,6 @@
 # Error_ellipse_SLAM
 
-## Error_ellipse_ について
+## Error_ellipse_ SLAMについて
 
 Error_ellipse_ はSLAM学習用プログラムです。
 2D レーザスキャナのデータ（スキャン）とオドメトリデータを格納したファイルを入力し、
@@ -35,7 +35,7 @@ Error_ellipse_SLAMの実行には、下記のソフトウェアが必要です�
 |    CMake     |    ビルド支援ツール     |   3.2.2    |
 |     p2o      | Graph-based SLAM ソルバ |    beta    |
 
-バージョンは MikeSLAM の開発で使用したものであり、明確な条件ではありません。
+バージョンは Error_ellipse_SLAM の開発で使用したものであり、明確な条件ではありません。
 これ以上のバージョンであれば通常は動作します。
 これ以下のバージョンでも動作する可能性はあります。
 
