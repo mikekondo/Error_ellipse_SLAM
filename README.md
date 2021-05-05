@@ -45,3 +45,6 @@ Error_ellipse_SLAMの実行には、下記のソフトウェアが必要です�
 | :------------------ | :----------------- |
 | corridor.lsc        | 廊下（単一ループ） |
 | corridor-degene.lsc | 廊下（退化）       |
+
+
+![Mike_SLAM_fuse](https://user-images.githubusercontent.com/65348333/117123258-c59b6e00-add1-11eb-8e61-f75f2ebeb37e.gif)
